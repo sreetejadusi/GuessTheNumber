@@ -1,15 +1,15 @@
 # GuessTheNumber
 
-A Code By Sree Teja Dusi
+#A Code By Sree Teja Dusi
 
-Website: https://sreetejadusi.me
+#GitHub: https://github.com/sreetejadusi
 
-Facebook: https://facebook.com/sreetejadusi
+#LinkedIn: https://linkedin.com/in/sreetejadusi
 
-Twitter: https://twitter.com/sreetejadusi
+#Website: https://sreetejadusi.me
 
-LinkedIn: https://linkedin.com/in/sreetejadusi
+#Twitter: https://twitter.com/sreetejadusi
 
-Instagram: https://instagram.com/sreeteja_dusi
+#Instagram: https://instagram.com/sreeteja_dusi
 
-GitHub: https://github.com/sreetejadusi
+#Facebook: https://facebook.com/sreetejadusi
