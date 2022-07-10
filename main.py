@@ -45,5 +45,8 @@ start = Start()
 
 #A Code By Sree Teja Dusi
 #GitHub: https://github.com/sreetejadusi
-#Portfolio: https://sreetejadusi.me
-#LinkediIn: https://linkedin.com/in/sreetejadusi
+#LinkedIn: https://linkedin.com/in/sreetejadusi
+#Website: https://sreetejadusi.me
+#Twitter: https://twitter.com/sreetejadusi
+#Instagram: https://instagram.com/sreeteja_dusi
+#Facebook: https://facebook.com/sreetejadusi
